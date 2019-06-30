@@ -1,0 +1,44 @@
+user:a@gg logged in from 127.0.0.1 at 2019/06/29 23:26:31
+user: logged out, from  at 2019/06/29 23:26:33
+user:a@gg logged in from 127.0.0.1 at 2019/06/29 23:37:01
+user: a@gg booked seat 5B for Aladdin from, 127.0.0.1 at 2019/06/29 23:43:55
+user: a@gg booked seat  for Aladdin from, 127.0.0.1 at 2019/06/29 23:43:56
+user: a@gg booked seat 10B for Kabir Singh from, 127.0.0.1 at 2019/06/29 23:44:47
+user: a@gg booked seat  for Kabir Singh from, 127.0.0.1 at 2019/06/29 23:44:47
+user: a@gg booked seat 9A for Bharat from, 127.0.0.1 at 2019/06/29 23:45:49
+user: a@gg booked seat  for Bharat from, 127.0.0.1 at 2019/06/29 23:45:49
+user: a@gg booked seat 3C for Kabir Singh from, 127.0.0.1 at 2019/06/29 23:46:38
+user: a@gg booked seat  for Kabir Singh from, 127.0.0.1 at 2019/06/29 23:46:39
+user: a@gg booked seat 11B for Aladdin from, 127.0.0.1 at 2019/06/29 23:46:57
+user: a@gg booked seat  for Aladdin from, 127.0.0.1 at 2019/06/29 23:46:57
+user: logged out, from  at 2019/06/29 23:48:10
+user: created (unconfirmed), from  at 2019/06/29 23:48:25
+user: created (unconfirmed), from  at 2019/06/29 23:49:01
+user: created (unconfirmed), from  at 2019/06/29 23:49:55
+user: created (unconfirmed), from  at 2019/06/29 23:49:55
+user: created (unconfirmed), from  at 2019/06/29 23:51:27
+user: created (unconfirmed), from  at 2019/06/29 23:51:28
+user:e@gg created (unconfirmed), from  at 2019/06/29 23:52:27
+user: created (unconfirmed), from  at 2019/06/29 23:52:27
+user:s@gg created (unconfirmed), from 127.0.0.1 at 2019/06/29 23:54:37
+user: created (unconfirmed), from 127.0.0.1 at 2019/06/29 23:54:37
+admin logged in from  at 2019/06/29 23:56:10
+user: logged out, from  at 2019/06/29 23:57:03
+admin logged in from 127.0.0.1 at 2019/06/29 23:57:12
+user: logged out, from  at 2019/06/29 23:58:13
+admin logged in from 127.0.0.1 at 2019/06/30 00:03:42
+user: d@gg confirmed by admin, from 127.0.0.1 at 2019/06/30 00:03:49
+user: admin updated info, from 127.0.0.1 at 2019/06/30 00:04:19
+user: logged out, from  at 2019/06/30 00:04:19
+user:a@gg logged in from 127.0.0.1 at 2019/06/30 00:05:36
+user: logged out, from  at 2019/06/30 00:05:52
+admin logged in from 127.0.0.1 at 2019/06/30 00:06:01
+user: logged out, from  at 2019/06/30 00:39:58
+user:a@gg logged in from 127.0.0.1 at 2019/06/30 00:58:16
+user: a@gg booked seat 2A for Aladdin, from 127.0.0.1 at 2019/06/30 01:11:43
+user: a@gg booked seat  for Aladdin, from 127.0.0.1 at 2019/06/30 01:11:43
+user: logged out, from  at 2019/06/30 01:15:59
+admin logged in from 127.0.0.1 at 2019/06/30 01:16:09
+user: sds@gg remove by admin, from 127.0.0.1 at 2019/06/30 01:27:10
+user: logged out, from  at 2019/06/30 01:43:17
+user:a@gg logged in from 127.0.0.1 at 2019/06/30 10:10:12

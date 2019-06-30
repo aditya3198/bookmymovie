@@ -1,0 +1,39 @@
+html{
+    background: url('img/show.png') no-repeat center center fixed;
+    background-size: cover;
+}
+body{
+    color: darkred; 
+}
+.loginform{
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+legend{
+    font-size: 42px;
+    font-weight: 500;
+}
+label{
+    color: #6B0B07;
+    font-weight: 550;
+    font-size: 1.2em;
+}
+input{
+    height: 1.5em;
+}
+.button{
+    background-color: darkred;
+    padding: 5px;
+    width: 20%;
+    height: 40px;
+    color: white;
+}
+hr{
+    width: 70%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
